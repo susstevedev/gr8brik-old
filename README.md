@@ -3,4 +3,4 @@ Currently an archive of old GR8BRIK builds of mine so I have some more storage o
 # What is GR8BRIK
 Dude, it's a free, open source, in-browser, block building program.
 # Website?
-The website URI/URL is [www.gr8brik.rf.gd](http://www.gr8bik.rf.gd/index.php?utm_source=websearch).
+The website URI/URL is [www.gr8brik.rf.gd](http://www.gr8brik.rf.gd/index.php?utm_source=websearch).
