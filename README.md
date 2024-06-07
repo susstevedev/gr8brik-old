@@ -1,7 +1,7 @@
 # GR8BRIK - Block building browser game
 ![GR8BRIK](https://www.gr8brik.rf.gd/img/blured_model.jpg)
-Currently an archive of old GR8BRIK builds of mine so I have some more storage on the website.
+Versions and source code (InfinityFree got mad at me for hosting them derectly on GR8BRIK)
 # What is GR8BRIK
-Dude, it's a free, open source, in-browser, block building program.
+Dude, it's a free, open source, in-browser, block building program. Forked from nicmosc/brick-builder.
 # Website?
 The website URI/URL is [www.gr8brik.rf.gd](http://www.gr8brik.rf.gd/index.php?utm_source=websearch).
