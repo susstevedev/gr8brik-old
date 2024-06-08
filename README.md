@@ -5,3 +5,5 @@ Versions and source code (InfinityFree got mad at me for hosting them derectly o
 Dude, it's a free, open source, in-browser, block building program. Forked from nicmosc/brick-builder.
 # Website?
 The website URI/URL is [www.gr8brik.rf.gd](http://www.gr8brik.rf.gd/index.php?utm_source=websearch).
+# Desktop app?
+Yes, there is one. Can be found [here](https://github.com/evanrutledge1/gr8brik-locallife)
