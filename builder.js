@@ -114,18 +114,18 @@
                 var t = r(1).default,
                     i = r(1).leaveModule;
                 t &&
-                    (t.register(n, "base", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/constants.js"),
-                    t.register(o, "bricks", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/constants.js"),
-                    t.register(a, "colors", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/constants.js"),
+                    (t.register(n, "base", "/gr8brik/app/utils/constants.js"),
+                    t.register(o, "bricks", "/gr8brik/app/utils/constants.js"),
+                    t.register(a, "colors", "/gr8brik/app/utils/constants.js"),
                     i(e));
             })(),
                 (function () {
                     var t = r(1).default,
                         i = r(1).leaveModule;
                     t &&
-                        (t.register(n, "base", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/constants.js"),
-                        t.register(o, "bricks", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/constants.js"),
-                        t.register(a, "colors", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/constants.js"),
+                        (t.register(n, "base", "/gr8brik/app/utils/constants.js"),
+                        t.register(o, "bricks", "/gr8brik/app/utils/constants.js"),
+                        t.register(a, "colors", "/gr8brik/app/utils/constants.js"),
                         i(e));
                 })();
         }.call(this, r(4)(e)));
@@ -280,22 +280,22 @@
                     var t = r(1).default,
                         u = r(1).leaveModule;
                     t &&
-                        (t.register(n, "CSSToHex", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
-                        t.register(o, "shadeColor", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
-                        t.register(a, "getMeasurementsFromDimensions", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
-                        t.register(i, "displayNameFromDimensions", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
-                        t.register(l, "getBrickIconFromDimensions", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
+                        (t.register(n, "CSSToHex", "/gr8brik/app/utils/index.js"),
+                        t.register(o, "shadeColor", "/gr8brik/app/utils/index.js"),
+                        t.register(a, "getMeasurementsFromDimensions", "/gr8brik/app/utils/index.js"),
+                        t.register(i, "displayNameFromDimensions", "/gr8brik/app/utils/index.js"),
+                        t.register(l, "getBrickIconFromDimensions", "/gr8brik/app/utils/index.js"),
                         u(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         u = r(1).leaveModule;
                     t &&
-                        (t.register(n, "CSSToHex", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
-                        t.register(o, "shadeColor", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
-                        t.register(a, "getMeasurementsFromDimensions", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
-                        t.register(i, "displayNameFromDimensions", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
-                        t.register(l, "getBrickIconFromDimensions", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/index.js"),
+                        (t.register(n, "CSSToHex", "/gr8brik/app/utils/index.js"),
+                        t.register(o, "shadeColor", "/gr8brik/app/utils/index.js"),
+                        t.register(a, "getMeasurementsFromDimensions", "/gr8brik/app/utils/index.js"),
+                        t.register(i, "displayNameFromDimensions", "/gr8brik/app/utils/index.js"),
+                        t.register(l, "getBrickIconFromDimensions", "/gr8brik/app/utils/index.js"),
                         u(e));
                 })();
         }.call(this, r(4)(e)));
@@ -652,32 +652,32 @@
                 var t = r(1).default,
                     d = r(1).leaveModule;
                 t &&
-                    (t.register(u, "ADD_BRICK", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(n, "addBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(s, "REMOVE_BRICK", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(o, "removeBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(c, "UPDATE_BRICK", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(a, "updateBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(p, "RESET_SCENE", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(i, "resetScene", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(f, "SET_SCENE", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                    t.register(l, "setScene", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
+                    (t.register(u, "ADD_BRICK", "/gr8brik/app/actions/scene.js"),
+                    t.register(n, "addBrick", "/gr8brik/app/actions/scene.js"),
+                    t.register(s, "REMOVE_BRICK", "/gr8brik/app/actions/scene.js"),
+                    t.register(o, "removeBrick", "/gr8brik/app/actions/scene.js"),
+                    t.register(c, "UPDATE_BRICK", "/gr8brik/app/actions/scene.js"),
+                    t.register(a, "updateBrick", "/gr8brik/app/actions/scene.js"),
+                    t.register(p, "RESET_SCENE", "/gr8brik/app/actions/scene.js"),
+                    t.register(i, "resetScene", "/gr8brik/app/actions/scene.js"),
+                    t.register(f, "SET_SCENE", "/gr8brik/app/actions/scene.js"),
+                    t.register(l, "setScene", "/gr8brik/app/actions/scene.js"),
                     d(e));
             })(),
                 (function () {
                     var t = r(1).default,
                         d = r(1).leaveModule;
                     t &&
-                        (t.register(u, "ADD_BRICK", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(n, "addBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(s, "REMOVE_BRICK", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(o, "removeBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(c, "UPDATE_BRICK", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(a, "updateBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(p, "RESET_SCENE", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(i, "resetScene", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(f, "SET_SCENE", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
-                        t.register(l, "setScene", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/scene.js"),
+                        (t.register(u, "ADD_BRICK", "/gr8brik/app/actions/scene.js"),
+                        t.register(n, "addBrick", "/gr8brik/app/actions/scene.js"),
+                        t.register(s, "REMOVE_BRICK", "/gr8brik/app/actions/scene.js"),
+                        t.register(o, "removeBrick", "/gr8brik/app/actions/scene.js"),
+                        t.register(c, "UPDATE_BRICK", "/gr8brik/app/actions/scene.js"),
+                        t.register(a, "updateBrick", "/gr8brik/app/actions/scene.js"),
+                        t.register(p, "RESET_SCENE", "/gr8brik/app/actions/scene.js"),
+                        t.register(i, "resetScene", "/gr8brik/app/actions/scene.js"),
+                        t.register(f, "SET_SCENE", "/gr8brik/app/actions/scene.js"),
+                        t.register(l, "setScene", "/gr8brik/app/actions/scene.js"),
                         d(e));
                 })();
         }.call(this, r(4)(e)));
@@ -756,28 +756,28 @@
                 var t = r(1).default,
                     p = r(1).leaveModule;
                 t &&
-                    (t.register(l, "SET_MODE", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                    t.register(n, "setMode", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                    t.register(u, "SET_COLOR", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                    t.register(o, "setColor", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                    t.register(s, "TOGGLE_GRID", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                    t.register(a, "toggleGrid", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                    t.register(c, "SET_BRICK", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                    t.register(i, "setBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
+                    (t.register(l, "SET_MODE", "/gr8brik/app/actions/builder.js"),
+                    t.register(n, "setMode", "/gr8brik/app/actions/builder.js"),
+                    t.register(u, "SET_COLOR", "/gr8brik/app/actions/builder.js"),
+                    t.register(o, "setColor", "/gr8brik/app/actions/builder.js"),
+                    t.register(s, "TOGGLE_GRID", "/gr8brik/app/actions/builder.js"),
+                    t.register(a, "toggleGrid", "/gr8brik/app/actions/builder.js"),
+                    t.register(c, "SET_BRICK", "/gr8brik/app/actions/builder.js"),
+                    t.register(i, "setBrick", "/gr8brik/app/actions/builder.js"),
                     p(e));
             })(),
                 (function () {
                     var t = r(1).default,
                         p = r(1).leaveModule;
                     t &&
-                        (t.register(l, "SET_MODE", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                        t.register(n, "setMode", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                        t.register(u, "SET_COLOR", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                        t.register(o, "setColor", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                        t.register(s, "TOGGLE_GRID", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                        t.register(a, "toggleGrid", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                        t.register(c, "SET_BRICK", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
-                        t.register(i, "setBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/builder.js"),
+                        (t.register(l, "SET_MODE", "/gr8brik/app/actions/builder.js"),
+                        t.register(n, "setMode", "/gr8brik/app/actions/builder.js"),
+                        t.register(u, "SET_COLOR", "/gr8brik/app/actions/builder.js"),
+                        t.register(o, "setColor", "/gr8brik/app/actions/builder.js"),
+                        t.register(s, "TOGGLE_GRID", "/gr8brik/app/actions/builder.js"),
+                        t.register(a, "toggleGrid", "/gr8brik/app/actions/builder.js"),
+                        t.register(c, "SET_BRICK", "/gr8brik/app/actions/builder.js"),
+                        t.register(i, "setBrick", "/gr8brik/app/actions/builder.js"),
                         p(e));
                 })();
         }.call(this, r(4)(e)));
@@ -1198,18 +1198,18 @@
                 var e = __webpack_require__(1).default,
                     t = __webpack_require__(1).leaveModule;
                 e &&
-                    (e.register(knobSize, "knobSize", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Brick.js"),
-                    e.register(Brick, "Brick", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Brick.js"),
-                    e.register(createMesh, "createMesh", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Brick.js"),
+                    (e.register(knobSize, "knobSize", "/gr8brik/app/components/engine/Brick.js"),
+                    e.register(Brick, "Brick", "/gr8brik/app/components/engine/Brick.js"),
+                    e.register(createMesh, "createMesh", "/gr8brik/app/components/engine/Brick.js"),
                     t(module));
             })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Brick, "Brick", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Brick.js"),
-                        e.register(createMesh, "createMesh", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Brick.js"),
-                        e.register(knobSize, "knobSize", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Brick.js"),
+                        (e.register(Brick, "Brick", "/gr8brik/app/components/engine/Brick.js"),
+                        e.register(createMesh, "createMesh", "/gr8brik/app/components/engine/Brick.js"),
+                        e.register(knobSize, "knobSize", "/gr8brik/app/components/engine/Brick.js"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -1307,16 +1307,16 @@
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(l, "Button", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Button.jsx"),
-                        t.register(u, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Button.jsx"),
+                        (t.register(l, "Button", "/gr8brik/app/components/Button.jsx"),
+                        t.register(u, "default", "/gr8brik/app/components/Button.jsx"),
                         n(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(l, "Button", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Button.jsx"),
-                        t.register(s, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Button.jsx"),
+                        (t.register(l, "Button", "/gr8brik/app/components/Button.jsx"),
+                        t.register(s, "default", "/gr8brik/app/components/Button.jsx"),
                         n(e));
                 })();
         }.call(this, r(4)(e)));
@@ -1453,14 +1453,14 @@
             !(function () {
                 var t = r(1).default,
                     a = r(1).leaveModule;
-                t && (t.register(o, "TOGGLE_UTILS", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/ui.js"), t.register(n, "toggleUtils", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/ui.js"), a(e));
+                t && (t.register(o, "TOGGLE_UTILS", "/gr8brik/app/actions/ui.js"), t.register(n, "toggleUtils", "/gr8brik/app/actions/ui.js"), a(e));
             })(),
                 (function () {
                     var t = r(1).default,
                         a = r(1).leaveModule;
                     t &&
-                        (t.register(o, "TOGGLE_UTILS", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/ui.js"),
-                        t.register(n, "toggleUtils", "/Users/nick/Documents/Programming/repos/brick-builder/app/actions/ui.js"),
+                        (t.register(o, "TOGGLE_UTILS", "/gr8brik/app/actions/ui.js"),
+                        t.register(n, "toggleUtils", "/gr8brik/app/actions/ui.js"),
                         a(e));
                 })();
         }.call(this, r(4)(e)));
@@ -1546,16 +1546,16 @@
                 var e = __webpack_require__(1).default,
                     t = __webpack_require__(1).leaveModule;
                 e &&
-                    (e.register(PerspectiveCamera, "PerspectiveCamera", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Camera.js"),
-                    e.register(OrthographicCamera, "OrthographicCamera", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Camera.js"),
+                    (e.register(PerspectiveCamera, "PerspectiveCamera", "/gr8brik/app/components/engine/core/Camera.js"),
+                    e.register(OrthographicCamera, "OrthographicCamera", "/gr8brik/app/components/engine/core/Camera.js"),
                     t(module));
             })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(PerspectiveCamera, "PerspectiveCamera", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Camera.js"),
-                        e.register(OrthographicCamera, "OrthographicCamera", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Camera.js"),
+                        (e.register(PerspectiveCamera, "PerspectiveCamera", "/gr8brik/app/components/engine/core/Camera.js"),
+                        e.register(OrthographicCamera, "OrthographicCamera", "/gr8brik/app/components/engine/core/Camera.js"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -2156,28 +2156,28 @@
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(a, "SimpleBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                        t.register(i, "B1x1", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                        t.register(l, "B2x1", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                        t.register(u, "B2x2", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                        t.register(s, "B3x1", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                        t.register(c, "B3x2", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                        t.register(p, "B4x1", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                        t.register(f, "B4x2", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
+                        (t.register(a, "SimpleBrick", "/gr8brik/app/components/Icons.jsx"),
+                        t.register(i, "B1x1", "/gr8brik/app/components/Icons.jsx"),
+                        t.register(l, "B2x1", "/gr8brik/app/components/Icons.jsx"),
+                        t.register(u, "B2x2", "/gr8brik/app/components/Icons.jsx"),
+                        t.register(s, "B3x1", "/gr8brik/app/components/Icons.jsx"),
+                        t.register(c, "B3x2", "/gr8brik/app/components/Icons.jsx"),
+                        t.register(p, "B4x1", "/gr8brik/app/components/Icons.jsx"),
+                        t.register(f, "B4x2", "/gr8brik/app/components/Icons.jsx"),
                         n(e));
                 })(),
                     (function () {
                         var t = r(1).default,
                             n = r(1).leaveModule;
                         t &&
-                            (t.register(a, "SimpleBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                            t.register(i, "B1x1", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                            t.register(l, "B2x1", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                            t.register(u, "B2x2", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                            t.register(s, "B3x1", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                            t.register(c, "B3x2", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                            t.register(p, "B4x1", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
-                            t.register(f, "B4x2", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Icons.jsx"),
+                            (t.register(a, "SimpleBrick", "/gr8brik/app/components/Icons.jsx"),
+                            t.register(i, "B1x1", "/gr8brik/app/components/Icons.jsx"),
+                            t.register(l, "B2x1", "/gr8brik/app/components/Icons.jsx"),
+                            t.register(u, "B2x2", "/gr8brik/app/components/Icons.jsx"),
+                            t.register(s, "B3x1", "/gr8brik/app/components/Icons.jsx"),
+                            t.register(c, "B3x2", "/gr8brik/app/components/Icons.jsx"),
+                            t.register(p, "B4x1", "/gr8brik/app/components/Icons.jsx"),
+                            t.register(f, "B4x2", "/gr8brik/app/components/Icons.jsx"),
                             n(e));
                     })();
             }.call(this, r(4)(e));
@@ -2938,12 +2938,12 @@
                 (function () {
                     var t = r(1).default,
                         o = r(1).leaveModule;
-                    t && (t.register(n, "Detector", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/detector.js"), o(e));
+                    t && (t.register(n, "Detector", "/gr8brik/app/utils/threejs/detector.js"), o(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         o = r(1).leaveModule;
-                    t && (t.register(n, "Detector", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/detector.js"), o(e));
+                    t && (t.register(n, "Detector", "/gr8brik/app/utils/threejs/detector.js"), o(e));
                 })();
         }.call(this, r(22)(e)));
     },
@@ -2974,16 +2974,16 @@
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(l, "Message", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Message.jsx"),
-                        t.register(u, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Message.jsx"),
+                        (t.register(l, "Message", "/gr8brik/app/components/Message.jsx"),
+                        t.register(u, "default", "/gr8brik/app/components/Message.jsx"),
                         n(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(l, "Message", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Message.jsx"),
-                        t.register(s, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Message.jsx"),
+                        (t.register(l, "Message", "/gr8brik/app/components/Message.jsx"),
+                        t.register(s, "default", "/gr8brik/app/components/Message.jsx"),
                         n(e));
                 })();
         }.call(this, r(4)(e)));
@@ -3099,20 +3099,20 @@ object-assign
                     var t = r(1).default,
                         l = r(1).leaveModule;
                     t &&
-                        (t.register(n, "getMode", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/builder.js"),
-                        t.register(o, "getColor", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/builder.js"),
-                        t.register(a, "getIsGridVisible", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/builder.js"),
-                        t.register(i, "getBrickDimensions", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/builder.js"),
+                        (t.register(n, "getMode", "/gr8brik/app/selectors/builder.js"),
+                        t.register(o, "getColor", "/gr8brik/app/selectors/builder.js"),
+                        t.register(a, "getIsGridVisible", "/gr8brik/app/selectors/builder.js"),
+                        t.register(i, "getBrickDimensions", "/gr8brik/app/selectors/builder.js"),
                         l(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         l = r(1).leaveModule;
                     t &&
-                        (t.register(n, "getMode", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/builder.js"),
-                        t.register(o, "getColor", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/builder.js"),
-                        t.register(a, "getIsGridVisible", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/builder.js"),
-                        t.register(i, "getBrickDimensions", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/builder.js"),
+                        (t.register(n, "getMode", "/gr8brik/app/selectors/builder.js"),
+                        t.register(o, "getColor", "/gr8brik/app/selectors/builder.js"),
+                        t.register(a, "getIsGridVisible", "/gr8brik/app/selectors/builder.js"),
+                        t.register(i, "getBrickDimensions", "/gr8brik/app/selectors/builder.js"),
                         l(e));
                 })();
         }.call(this, r(4)(e)));
@@ -3137,12 +3137,12 @@ object-assign
                 (function () {
                     var t = r(1).default,
                         o = r(1).leaveModule;
-                    t && (t.register(n, "getAreUtilsOpen", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/ui.js"), o(e));
+                    t && (t.register(n, "getAreUtilsOpen", "/gr8brik/app/selectors/ui.js"), o(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         o = r(1).leaveModule;
-                    t && (t.register(n, "getAreUtilsOpen", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/ui.js"), o(e));
+                    t && (t.register(n, "getAreUtilsOpen", "/gr8brik/app/selectors/ui.js"), o(e));
                 })();
         }.call(this, r(4)(e)));
     },
@@ -3166,12 +3166,12 @@ object-assign
                 (function () {
                     var t = r(1).default,
                         o = r(1).leaveModule;
-                    t && (t.register(n, "getBricks", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/scene.js"), o(e));
+                    t && (t.register(n, "getBricks", "/gr8brik/app/selectors/scene.js"), o(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         o = r(1).leaveModule;
-                    t && (t.register(n, "getBricks", "/Users/nick/Documents/Programming/repos/brick-builder/app/selectors/scene.js"), o(e));
+                    t && (t.register(n, "getBricks", "/gr8brik/app/selectors/scene.js"), o(e));
                 })();
         }.call(this, r(4)(e)));
     },
@@ -3278,12 +3278,12 @@ object-assign
             !(function () {
                 var e = __webpack_require__(1).default,
                     t = __webpack_require__(1).leaveModule;
-                e && (e.register(Renderer, "Renderer", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Renderer.js"), t(module));
+                e && (e.register(Renderer, "Renderer", "/gr8brik/app/components/engine/core/Renderer.js"), t(module));
             })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
-                    e && (e.register(Renderer, "Renderer", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Renderer.js"), t(module));
+                    e && (e.register(Renderer, "Renderer", "/gr8brik/app/components/engine/core/Renderer.js"), t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
     },
@@ -3360,16 +3360,16 @@ object-assign
                 var e = __webpack_require__(1).default,
                     t = __webpack_require__(1).leaveModule;
                 e &&
-                    (e.register(OrbitControls, "OrbitControls", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Controls.js"),
-                    e.register(Controls, "Controls", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Controls.js"),
+                    (e.register(OrbitControls, "OrbitControls", "/gr8brik/app/components/engine/core/Controls.js"),
+                    e.register(Controls, "Controls", "/gr8brik/app/components/engine/core/Controls.js"),
                     t(module));
             })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Controls, "Controls", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Controls.js"),
-                        e.register(OrbitControls, "OrbitControls", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Controls.js"),
+                        (e.register(Controls, "Controls", "/gr8brik/app/components/engine/core/Controls.js"),
+                        e.register(OrbitControls, "OrbitControls", "/gr8brik/app/components/engine/core/Controls.js"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -3464,16 +3464,16 @@ object-assign
                 var e = __webpack_require__(1).default,
                     t = __webpack_require__(1).leaveModule;
                 e &&
-                    (e.register(Light, "Light", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Light.js"),
-                    e.register(AmbientLight, "AmbientLight", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Light.js"),
+                    (e.register(Light, "Light", "/gr8brik/app/components/engine/core/Light.js"),
+                    e.register(AmbientLight, "AmbientLight", "/gr8brik/app/components/engine/core/Light.js"),
                     t(module));
             })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Light, "Light", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Light.js"),
-                        e.register(AmbientLight, "AmbientLight", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Light.js"),
+                        (e.register(Light, "Light", "/gr8brik/app/components/engine/core/Light.js"),
+                        e.register(AmbientLight, "AmbientLight", "/gr8brik/app/components/engine/core/Light.js"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -3548,12 +3548,12 @@ object-assign
             !(function () {
                 var e = __webpack_require__(1).default,
                     t = __webpack_require__(1).leaveModule;
-                e && (e.register(Plane, "Plane", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Plane.js"), t(module));
+                e && (e.register(Plane, "Plane", "/gr8brik/app/components/engine/core/Plane.js"), t(module));
             })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
-                    e && (e.register(Plane, "Plane", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/core/Plane.js"), t(module));
+                    e && (e.register(Plane, "Plane", "/gr8brik/app/components/engine/core/Plane.js"), t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
     },
@@ -4556,20 +4556,20 @@ object-assign
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Builder, "Builder", "/Users/nick/Documents/Programming/repos/brick-builder/app/containers/Builder.jsx"),
-                        e.register(mapStateToProps, "mapStateToProps", "/Users/nick/Documents/Programming/repos/brick-builder/app/containers/Builder.jsx"),
-                        e.register(mapDispatchToProps, "mapDispatchToProps", "/Users/nick/Documents/Programming/repos/brick-builder/app/containers/Builder.jsx"),
-                        e.register(_default, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/containers/Builder.jsx"),
+                        (e.register(Builder, "Builder", "/gr8brik/app/containers/Builder.jsx"),
+                        e.register(mapStateToProps, "mapStateToProps", "/gr8brik/app/containers/Builder.jsx"),
+                        e.register(mapDispatchToProps, "mapDispatchToProps", "/gr8brik/app/containers/Builder.jsx"),
+                        e.register(_default, "default", "/gr8brik/app/containers/Builder.jsx"),
                         t(module));
                 })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Builder, "Builder", "/Users/nick/Documents/Programming/repos/brick-builder/app/containers/Builder.jsx"),
-                        e.register(mapStateToProps, "mapStateToProps", "/Users/nick/Documents/Programming/repos/brick-builder/app/containers/Builder.jsx"),
-                        e.register(mapDispatchToProps, "mapDispatchToProps", "/Users/nick/Documents/Programming/repos/brick-builder/app/containers/Builder.jsx"),
-                        e.register(_default2, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/containers/Builder.jsx"),
+                        (e.register(Builder, "Builder", "/gr8brik/app/containers/Builder.jsx"),
+                        e.register(mapStateToProps, "mapStateToProps", "/gr8brik/app/containers/Builder.jsx"),
+                        e.register(mapDispatchToProps, "mapDispatchToProps", "/gr8brik/app/containers/Builder.jsx"),
+                        e.register(_default2, "default", "/gr8brik/app/containers/Builder.jsx"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -5018,16 +5018,16 @@ object-assign
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Scene, "Scene", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Scene.jsx"),
-                        e.register(_default, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Scene.jsx"),
+                        (e.register(Scene, "Scene", "/gr8brik/app/components/engine/Scene.jsx"),
+                        e.register(_default, "default", "/gr8brik/app/components/engine/Scene.jsx"),
                         t(module));
                 })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Scene, "Scene", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Scene.jsx"),
-                        e.register(_default2, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Scene.jsx"),
+                        (e.register(Scene, "Scene", "/gr8brik/app/components/engine/Scene.jsx"),
+                        e.register(_default2, "default", "/gr8brik/app/components/engine/Scene.jsx"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -5139,16 +5139,16 @@ object-assign
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Monitor, "Monitor", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Monitor.jsx"),
-                        e.register(_default, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Monitor.jsx"),
+                        (e.register(Monitor, "Monitor", "/gr8brik/app/components/engine/Monitor.jsx"),
+                        e.register(_default, "default", "/gr8brik/app/components/engine/Monitor.jsx"),
                         t(module));
                 })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Monitor, "Monitor", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Monitor.jsx"),
-                        e.register(_default2, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Monitor.jsx"),
+                        (e.register(Monitor, "Monitor", "/gr8brik/app/components/engine/Monitor.jsx"),
+                        e.register(_default2, "default", "/gr8brik/app/components/engine/Monitor.jsx"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -5194,20 +5194,20 @@ object-assign
                     var t = r(1).default,
                         l = r(1).leaveModule;
                     t &&
-                        (t.register(n, "mergeMeshes", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/index.js"),
-                        t.register(o, "collisonXYZ", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/index.js"),
-                        t.register(a, "degToRad", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/index.js"),
-                        t.register(i, "radToDeg", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/index.js"),
+                        (t.register(n, "mergeMeshes", "/gr8brik/app/utils/threejs/index.js"),
+                        t.register(o, "collisonXYZ", "/gr8brik/app/utils/threejs/index.js"),
+                        t.register(a, "degToRad", "/gr8brik/app/utils/threejs/index.js"),
+                        t.register(i, "radToDeg", "/gr8brik/app/utils/threejs/index.js"),
                         l(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         l = r(1).leaveModule;
                     t &&
-                        (t.register(n, "mergeMeshes", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/index.js"),
-                        t.register(o, "collisonXYZ", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/index.js"),
-                        t.register(a, "degToRad", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/index.js"),
-                        t.register(i, "radToDeg", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/index.js"),
+                        (t.register(n, "mergeMeshes", "/gr8brik/app/utils/threejs/index.js"),
+                        t.register(o, "collisonXYZ", "/gr8brik/app/utils/threejs/index.js"),
+                        t.register(a, "degToRad", "/gr8brik/app/utils/threejs/index.js"),
+                        t.register(i, "radToDeg", "/gr8brik/app/utils/threejs/index.js"),
                         l(e));
                 })();
         }.call(this, r(4)(e)));
@@ -5312,12 +5312,12 @@ object-assign
             !(function () {
                 var e = __webpack_require__(1).default,
                     t = __webpack_require__(1).leaveModule;
-                e && (e.register(RollOverBrick, "RollOverBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Helpers.js"), t(module));
+                e && (e.register(RollOverBrick, "RollOverBrick", "/gr8brik/app/components/engine/Helpers.js"), t(module));
             })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
-                    e && (e.register(RollOverBrick, "RollOverBrick", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/engine/Helpers.js"), t(module));
+                    e && (e.register(RollOverBrick, "RollOverBrick", "/gr8brik/app/components/engine/Helpers.js"), t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
     },
@@ -5378,7 +5378,7 @@ object-assign
                         o.a.createElement("div", { className: s.a.section }, o.a.createElement("div", { className: s.a.title }, "Color"), o.a.createElement(i.a, { background: n, handleSetColor: u })),
                         o.a.createElement("div", { className: s.a.section }, o.a.createElement("div", { className: s.a.title }, "Brick"), o.a.createElement(l.a, { selectedSize: f, handleSetBrick: d })),
                         o.a.createElement("div", { className: s.a.section }, o.a.createElement("div", { className: s.a.title }, "Scene"), o.a.createElement(a.a, { active: c, onClick: p, icon: "grid", text: "Grid" })),
-                        o.a.createElement("div", { className: s.a.rightSection }, o.a.createElement(a.a, { active: _, onClick: h, icon: "navicon-round", text: "Utils" })),
+                        o.a.createElement("div", { className: s.a.rightSection }, o.a.createElement(a.a, { active: _, onClick: h, icon: "navicon-round", text: "Settings" })),
                         b
                     );
                 },
@@ -5389,16 +5389,16 @@ object-assign
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(c, "Topbar", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Topbar.jsx"),
-                        t.register(p, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Topbar.jsx"),
+                        (t.register(c, "Topbar", "/gr8brik/app/components/Topbar.jsx"),
+                        t.register(p, "default", "/gr8brik/app/components/Topbar.jsx"),
                         n(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(c, "Topbar", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Topbar.jsx"),
-                        t.register(f, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Topbar.jsx"),
+                        (t.register(c, "Topbar", "/gr8brik/app/components/Topbar.jsx"),
+                        t.register(f, "default", "/gr8brik/app/components/Topbar.jsx"),
                         n(e));
                 })();
         }.call(this, r(4)(e)));
@@ -5554,16 +5554,16 @@ object-assign
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(ColorPicker, "ColorPicker", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/ColorPicker.jsx"),
-                        e.register(_default, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/ColorPicker.jsx"),
+                        (e.register(ColorPicker, "ColorPicker", "/gr8brik/app/components/ColorPicker.jsx"),
+                        e.register(_default, "default", "/gr8brik/app/components/ColorPicker.jsx"),
                         t(module));
                 })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(ColorPicker, "ColorPicker", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/ColorPicker.jsx"),
-                        e.register(_default2, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/ColorPicker.jsx"),
+                        (e.register(ColorPicker, "ColorPicker", "/gr8brik/app/components/ColorPicker.jsx"),
+                        e.register(_default2, "default", "/gr8brik/app/components/ColorPicker.jsx"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -5843,16 +5843,16 @@ object-assign
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(BrickPicker, "BrickPicker", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/BrickPicker.jsx"),
-                        e.register(_default, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/BrickPicker.jsx"),
+                        (e.register(BrickPicker, "BrickPicker", "/gr8brik/app/components/BrickPicker.jsx"),
+                        e.register(_default, "default", "/gr8brik/app/components/BrickPicker.jsx"),
                         t(module));
                 })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(BrickPicker, "BrickPicker", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/BrickPicker.jsx"),
-                        e.register(_default2, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/BrickPicker.jsx"),
+                        (e.register(BrickPicker, "BrickPicker", "/gr8brik/app/components/BrickPicker.jsx"),
+                        e.register(_default2, "default", "/gr8brik/app/components/BrickPicker.jsx"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -6073,18 +6073,18 @@ object-assign
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(HelpModal, "HelpModal", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Help.jsx"),
-                        e.register(Help, "Help", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Help.jsx"),
-                        e.register(_default, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Help.jsx"),
+                        (e.register(HelpModal, "HelpModal", "/gr8brik/app/components/Help.jsx"),
+                        e.register(Help, "Help", "/gr8brik/app/components/Help.jsx"),
+                        e.register(_default, "default", "/gr8brik/app/components/Help.jsx"),
                         t(module));
                 })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(HelpModal, "HelpModal", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Help.jsx"),
-                        e.register(Help, "Help", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Help.jsx"),
-                        e.register(_default2, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Help.jsx"),
+                        (e.register(HelpModal, "HelpModal", "/gr8brik/app/components/Help.jsx"),
+                        e.register(Help, "Help", "/gr8brik/app/components/Help.jsx"),
+                        e.register(_default2, "default", "/gr8brik/app/components/Help.jsx"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -6200,9 +6200,7 @@ object-assign
                                                         "div",
                                                         { className: _styles_components_sidebar__WEBPACK_IMPORTED_MODULE_5___default.a.text },
                                                         react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", { className: "ion-log-out" }),
-                                                        react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Save to device"),
-                                                    )
-                                                ),
+                                                        react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Save to device")),
                                                 react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
                                                     "div",
                                                     { className: _styles_components_sidebar__WEBPACK_IMPORTED_MODULE_5___default.a.row },
@@ -6218,9 +6216,10 @@ object-assign
                                                     )
                                                 )
                                             )
-                                        );
-                                    },
+										)	
+                                    )
                                 },
+                            },
                                 {
                                     key: "_exportFile",
                                     value: function () {
@@ -6261,16 +6260,16 @@ object-assign
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Sidebar, "Sidebar", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Sidebar.jsx"),
-                        e.register(_default, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Sidebar.jsx"),
+                        (e.register(Sidebar, "Sidebar", "/gr8brik/app/components/Sidebar.jsx"),
+                        e.register(_default, "default", "/gr8brik/app/components/Sidebar.jsx"),
                         t(module));
                 })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(Sidebar, "Sidebar", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Sidebar.jsx"),
-                        e.register(_default2, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/Sidebar.jsx"),
+                        (e.register(Sidebar, "Sidebar", "/gr8brik/app/components/Sidebar.jsx"),
+                        e.register(_default2, "default", "/gr8brik/app/components/Sidebar.jsx"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -6512,16 +6511,16 @@ object-assign
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(FileUploader, "FileUploader", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/FileUploader.jsx"),
-                        e.register(_default, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/FileUploader.jsx"),
+                        (e.register(FileUploader, "FileUploader", "/gr8brik/app/components/FileUploader.jsx"),
+                        e.register(_default, "default", "/gr8brik/app/components/FileUploader.jsx"),
                         t(module));
                 })(),
                 (function () {
                     var e = __webpack_require__(1).default,
                         t = __webpack_require__(1).leaveModule;
                     e &&
-                        (e.register(FileUploader, "FileUploader", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/FileUploader.jsx"),
-                        e.register(_default2, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/components/FileUploader.jsx"),
+                        (e.register(FileUploader, "FileUploader", "/gr8brik/app/components/FileUploader.jsx"),
+                        e.register(_default2, "default", "/gr8brik/app/components/FileUploader.jsx"),
                         t(module));
                 })();
         }.call(this, __webpack_require__(4)(module)));
@@ -6555,12 +6554,12 @@ object-assign
                 (function () {
                     var t = r(1).default,
                         o = r(1).leaveModule;
-                    t && (t.register(n, "setupStore", "/Users/nick/Documents/Programming/repos/brick-builder/app/store.js"), o(e));
+                    t && (t.register(n, "setupStore", "/gr8brik/app/store.js"), o(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         o = r(1).leaveModule;
-                    t && (t.register(n, "setupStore", "/Users/nick/Documents/Programming/repos/brick-builder/app/store.js"), o(e));
+                    t && (t.register(n, "setupStore", "/gr8brik/app/store.js"), o(e));
                 })();
         }.call(this, r(4)(e)));
     },
@@ -6585,12 +6584,12 @@ object-assign
                 (function () {
                     var t = r(1).default,
                         n = r(1).leaveModule;
-                    t && (t.register(l, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/index.js"), n(e));
+                    t && (t.register(l, "default", "/gr8brik/app/reducer/index.js"), n(e));
                 })(),
                 (function () {
                     var t = r(1).default,
                         n = r(1).leaveModule;
-                    t && (t.register(u, "default", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/index.js"), n(e));
+                    t && (t.register(u, "default", "/gr8brik/app/reducer/index.js"), n(e));
                 })();
         }.call(this, r(4)(e)));
     },
@@ -6642,16 +6641,16 @@ object-assign
                 var t = r(1).default,
                     n = r(1).leaveModule;
                 t &&
-                    (t.register(l, "initialState", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/builder.js"),
-                    t.register(o, "builder", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/builder.js"),
+                    (t.register(l, "initialState", "/gr8brik/app/reducer/builder.js"),
+                    t.register(o, "builder", "/gr8brik/app/reducer/builder.js"),
                     n(e));
             })(),
                 (function () {
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(o, "builder", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/builder.js"),
-                        t.register(l, "initialState", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/builder.js"),
+                        (t.register(o, "builder", "/gr8brik/app/reducer/builder.js"),
+                        t.register(l, "initialState", "/gr8brik/app/reducer/builder.js"),
                         n(e));
                 })();
         }.call(this, r(4)(e)));
@@ -6695,12 +6694,12 @@ object-assign
             !(function () {
                 var t = r(1).default,
                     n = r(1).leaveModule;
-                t && (t.register(i, "initialState", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/ui.js"), t.register(o, "ui", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/ui.js"), n(e));
+                t && (t.register(i, "initialState", "/gr8brik/app/reducer/ui.js"), t.register(o, "ui", "/gr8brik/app/reducer/ui.js"), n(e));
             })(),
                 (function () {
                     var t = r(1).default,
                         n = r(1).leaveModule;
-                    t && (t.register(o, "ui", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/ui.js"), t.register(i, "initialState", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/ui.js"), n(e));
+                    t && (t.register(o, "ui", "/gr8brik/app/reducer/ui.js"), t.register(i, "initialState", "/gr8brik/app/reducer/ui.js"), n(e));
                 })();
         }.call(this, r(4)(e)));
     },
@@ -6769,14 +6768,14 @@ object-assign
             !(function () {
                 var t = r(1).default,
                     n = r(1).leaveModule;
-                t && (t.register(l, "initialState", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/scene.js"), t.register(a, "scene", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/scene.js"), n(e));
+                t && (t.register(l, "initialState", "/gr8brik/app/reducer/scene.js"), t.register(a, "scene", "/gr8brik/app/reducer/scene.js"), n(e));
             })(),
                 (function () {
                     var t = r(1).default,
                         n = r(1).leaveModule;
                     t &&
-                        (t.register(a, "scene", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/scene.js"),
-                        t.register(l, "initialState", "/Users/nick/Documents/Programming/repos/brick-builder/app/reducer/scene.js"),
+                        (t.register(a, "scene", "/gr8brik/app/reducer/scene.js"),
+                        t.register(l, "initialState", "/gr8brik/app/reducer/scene.js"),
                         n(e));
                 })();
         }.call(this, r(4)(e)));
@@ -6815,12 +6814,12 @@ object-assign
                     (function () {
                         var n = r(1).default,
                             o = r(1).leaveModule;
-                        n && (n.register(t, "enableHMR", "/Users/nick/Documents/Programming/repos/brick-builder/app/app.js"), n.register(p, "store", "/Users/nick/Documents/Programming/repos/brick-builder/app/app.js"), o(e));
+                        n && (n.register(t, "enableHMR", "/gr8brik/app/app.js"), n.register(p, "store", "/gr8brik/app/app.js"), o(e));
                     })(),
                     (function () {
                         var n = r(1).default,
                             o = r(1).leaveModule;
-                        n && (n.register(t, "enableHMR", "/Users/nick/Documents/Programming/repos/brick-builder/app/app.js"), n.register(p, "store", "/Users/nick/Documents/Programming/repos/brick-builder/app/app.js"), o(e));
+                        n && (n.register(t, "enableHMR", "/gr8brik/app/app.js"), n.register(p, "store", "/gr8brik/app/app.js"), o(e));
                     })();
             }.call(this, r(4)(e));
     },
@@ -12136,22 +12135,22 @@ object-assign
                     var l = r(1).default,
                         u = r(1).leaveModule;
                     l &&
-                        (l.register(a, "TypedArrayHelper", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
-                        l.register(t, "convertGeometryToIndexedBuffer", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
-                        l.register(n, "compute_vertex_normals", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
-                        l.register(o, "unIndexIndexedGeometry", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
-                        l.register(i, "edge_type", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        (l.register(a, "TypedArrayHelper", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        l.register(t, "convertGeometryToIndexedBuffer", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        l.register(n, "compute_vertex_normals", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        l.register(o, "unIndexIndexedGeometry", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        l.register(i, "edge_type", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
                         u(e));
                 })(),
                 (function () {
                     var l = r(1).default,
                         u = r(1).leaveModule;
                     l &&
-                        (l.register(a, "TypedArrayHelper", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
-                        l.register(t, "convertGeometryToIndexedBuffer", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
-                        l.register(n, "compute_vertex_normals", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
-                        l.register(o, "unIndexIndexedGeometry", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
-                        l.register(i, "edge_type", "/Users/nick/Documents/Programming/repos/brick-builder/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        (l.register(a, "TypedArrayHelper", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        l.register(t, "convertGeometryToIndexedBuffer", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        l.register(n, "compute_vertex_normals", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        l.register(o, "unIndexIndexedGeometry", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
+                        l.register(i, "edge_type", "/gr8brik/app/utils/threejs/BufferSubdivisionModifier.js"),
                         u(e));
                 })();
         }.call(this, r(22)(e)));
